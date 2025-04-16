@@ -1,0 +1,23 @@
+_commit: 0.1.2
+_src_path: gh:mapp-metabolomics-unit/mapp-repo-copier-template
+author: MAPP Metabolomics Unit
+common_filename_pattern: '*20250402_PMA_tp24*.mzML'
+email: pierre-marie.allard@unifr.ch
+git_repo_path: /home/allardpm/git_repos/mapp-metabolomics-unit
+github_username: commons-teaching
+gnps_job_id: ''
+ionization_mode: positive
+mapp_batch: mapp_batch_00164
+mapp_batch_description: Untargeted metabolomics of 3 plants - pos mode
+mapp_project: mapp_project_00050
+repository_name: group-dbgi
+target_variable: source_taxon
+recorded_setup: true
+recorded_repository_name: "group-dbgi"
+recorded_author: "MAPP Metabolomics Unit"
+recorder_email: "pierre-marie.allard@unifr.ch"
+recorded_github_username: "commons-teaching"
+recorded_mapp_project: "mapp_project_00050"
+recorded_mapp_batch: "mapp_batch_00164"
+
+
