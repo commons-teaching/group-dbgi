@@ -1,0 +1,11 @@
+filename	sample_id	sample_type	source_taxon
+20250402_PMA_tp24_dbgi_007523_01_01.mzML	dbgi_007523	sample	Derris elliptica
+20250402_PMA_tp24_dbgi_007810_01_01.mzML	dbgi_007810	sample	Erythroxylum coca
+20250402_PMA_tp24_dbgi_007811_01_01.mzML	dbgi_007811	sample	Strophanthus hispidus
+20250402_PMA_tp24_dbgi_mapp_bk_post_00.mzML	NA	blank	NA
+20250402_PMA_tp24_dbgi_mapp_bk_post_01.mzML	NA	blank	NA
+20250402_PMA_tp24_dbgi_mapp_bk_pre_00.mzML	NA	blank	NA
+20250402_PMA_tp24_dbgi_mapp_bk_pre_01.mzML	NA	blank	NA
+20250402_PMA_tp24_dbgi_mapp_stdby.mzML	NA	blank	NA
+20250402_PMA_tp24_dbgi_tp24_bk_00.mzML	NA	blank	NA
+20250402_PMA_tp24_dbgi_tp24_bk_01.mzML	NA	blank	NA
