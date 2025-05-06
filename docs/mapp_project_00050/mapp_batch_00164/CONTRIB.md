@@ -7,6 +7,13 @@ Once you have cloned this repo you can run the following command to move the fil
 sg commons-users -c './copy_files.sh -i /media/share/mapp/public/QE_HFX_unifr/converted -o /msdata/mapp_project_00050/mapp_batch_00164 -p "*20250402_PMA_tp24*.mzML"'
 ```
 
+### Transfer the metadata to the msdata folder
+
+```bash
+cd ./docs/mapp_project_00050/mapp_batch_00164/
+cp ./metadata/treated/mapp_batch_00164_metadata.tsv /msdata/mapp_project_00050/mapp_batch_00164/
+```
+
 
 And fill the mzbatch file with the paths to the files
 
@@ -43,6 +50,7 @@ BEGIN {
   }
 }' mapp_batch_00164.mzbatch_template > mapp_batch_00164.mzbatch
 ```
+
 ### Running Mzmine
 
 You might need to source the mzmine environment

@@ -22,7 +22,7 @@
                     <parameter name="Noise level">1000.0</parameter>
                 </module>
                 <module name="Centroid">
-                    <parameter name="Noise level">20000.0</parameter>
+                    <parameter name="Noise level">500000.0</parameter>
                 </module>
                 <module name="Exact mass">
                     <parameter name="Noise level"/>
@@ -71,7 +71,7 @@
             <parameter name="Denormalize fragment scans (traps)">true</parameter>
         </parameter>
         <parameter name="Metadata file" selected="true">
-            <current_file>/home/allardpm/git_repos/mapp-metabolomics-unit/group-dbgi/docs/mapp_project_00050/mapp_batch_00164/metadata/treated/mapp_batch_00164_metadata.tsv</current_file>
+            <current_file>/msdata/mapp_project_00050/mapp_batch_00164/mapp_batch_00164_metadata.tsv</current_file>
         </parameter>
         <parameter name="Sort and color">true</parameter>
         <parameter name="Spectral library files"/>
@@ -95,10 +95,10 @@
                 <parameter name="Noise factor">5.0</parameter>
             </module>
             <module name="Auto">
-                <parameter name="Noise level">20000.0</parameter>
+                <parameter name="Noise level">500000.0</parameter>
             </module>
             <module name="Centroid">
-                <parameter name="Noise level">20000.0</parameter>
+                <parameter name="Noise level">500000.0</parameter>
             </module>
             <module name="Exact mass">
                 <parameter name="Noise level"/>
@@ -176,8 +176,8 @@
             <parameter name="Spectrum type">ANY</parameter>
         </parameter>
         <parameter name="Minimum consecutive scans">5</parameter>
-        <parameter name="Minimum intensity for consecutive scans">20000.0</parameter>
-        <parameter name="Minimum absolute height">20000.0</parameter>
+        <parameter name="Minimum intensity for consecutive scans">500000.0</parameter>
+        <parameter name="Minimum absolute height">500000.0</parameter>
         <parameter name="m/z tolerance (scan-to-scan)">
             <absolutetolerance>0.002</absolutetolerance>
             <ppmtolerance>15.0</ppmtolerance>
@@ -356,6 +356,8 @@
         <parameter name="Mass defect" selected="false"/>
         <parameter name="Original feature list">KEEP</parameter>
     </batchstep>
+    
+    
     <batchstep method="io.github.mzmine.modules.io.export_features_gnps.fbmn.GnpsFbmnExportAndSubmitModule" parameter_version="3">
         <parameter name="Feature lists" type="BATCH_LAST_FEATURELISTS"/>
         <parameter name="Filename">
