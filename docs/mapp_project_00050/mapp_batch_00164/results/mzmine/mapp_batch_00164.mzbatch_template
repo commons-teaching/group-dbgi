@@ -361,7 +361,7 @@
     <batchstep method="io.github.mzmine.modules.io.export_features_gnps.fbmn.GnpsFbmnExportAndSubmitModule" parameter_version="3">
         <parameter name="Feature lists" type="BATCH_LAST_FEATURELISTS"/>
         <parameter name="Filename">
-            <current_file>/home/allardpm/git_repos/mapp-metabolomics-unit/group-dbgi/docs/mapp_project_00050/mapp_batch_00164/results/mzmine/mapp_batch_00164.mgf</current_file>
+            <current_file>/Users/pma/git_repos/mapp-metabolomics-unit/group-dbgi/docs/mapp_project_00050/mapp_batch_00164/results/mzmine/mapp_batch_00164.mgf</current_file>
         </parameter>
         <parameter name="Filter rows">MS2 OR ION IDENTITY</parameter>
         <parameter name="Merge &amp; select fragment scans" selected_item="input_scans">
@@ -405,7 +405,7 @@
     <batchstep method="io.github.mzmine.modules.io.export_features_sirius.SiriusExportModule" parameter_version="2">
         <parameter name="Feature lists" type="BATCH_LAST_FEATURELISTS"/>
         <parameter name="Filename">
-            <current_file>/home/allardpm/git_repos/mapp-metabolomics-unit/group-dbgi/docs/mapp_project_00050/mapp_batch_00164/results/mzmine/mapp_batch_00164_sirius.mgf</current_file>
+            <current_file>/Users/pma/git_repos/mapp-metabolomics-unit/group-dbgi/docs/mapp_project_00050/mapp_batch_00164/results/mzmine/mapp_batch_00164_sirius.mgf</current_file>
         </parameter>
         <parameter name="Intensity normalization" scientific="true">no_normalization</parameter>
         <parameter name="Merge &amp; select fragment scans" selected_item="simple_merged">

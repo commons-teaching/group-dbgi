@@ -1,0 +1,167 @@
+{
+  "context": "Eudicots",
+  "governing_code": "ICN",
+  "includes_approximate_matches": true,
+  "includes_deprecated_taxa": false,
+  "includes_suppressed_names": false,
+  "matched_names": [
+    "derris elliptica",
+    "erythroxylum coca",
+    "strophanthus hispidus"
+  ],
+  "results": [
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Derris elliptica",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "derris elliptica",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Derris elliptica",
+            "ott_id": 170173,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Cylista piscatoria",
+              "Deguelia elliptica",
+              "Galactia termimaliflora",
+              "Galedupa elliptica",
+              "Millettia piscatoria",
+              "Millettia splendidissima",
+              "Paraderris elliptica",
+              "Pongamia elliptica",
+              "Pongamia volubilis"
+            ],
+            "tax_sources": [
+              "ncbi:56063",
+              "gbif:5350305",
+              "gbif:6403853",
+              "irmng:11303796"
+            ],
+            "unique_name": "Derris elliptica"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Derris elliptica",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "derris elliptica",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Derris ferruginea",
+            "ott_id": 815387,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Derris elliptica",
+              "Robinia ferruginea"
+            ],
+            "tax_sources": [
+              "ncbi:1225686",
+              "gbif:5350303",
+              "irmng:10855504"
+            ],
+            "unique_name": "Derris ferruginea"
+          }
+        }
+      ],
+      "name": "derris elliptica"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Erythroxylum coca",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "erythroxylum coca",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Erythroxylum coca",
+            "ott_id": 57960,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Erythroxylum bolivianum",
+              "Erythroxylum chilpei",
+              "Erythroxylum peruvianum"
+            ],
+            "tax_sources": [
+              "ncbi:289672",
+              "gbif:2873939",
+              "irmng:10953697"
+            ],
+            "unique_name": "Erythroxylum coca"
+          }
+        }
+      ],
+      "name": "erythroxylum coca"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Strophanthus hispidus",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "strophanthus hispidus",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Strophanthus hispidus",
+            "ott_id": 3870700,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Strophanthus bariba",
+              "Strophanthus hirtus",
+              "Strophanthus hispidus bosere",
+              "Strophanthus hispidus latistigmatica",
+              "Strophanthus hispidus lobatistigmatica",
+              "Strophanthus hispidus parvistigmatica",
+              "Strophanthus hispidus seidenii",
+              "Strophanthus niger",
+              "Strophanthus tchabe",
+              "Strophanthus thierryanus"
+            ],
+            "tax_sources": [
+              "ncbi:2605637",
+              "gbif:3169609",
+              "irmng:11431033"
+            ],
+            "unique_name": "Strophanthus hispidus"
+          }
+        }
+      ],
+      "name": "strophanthus hispidus"
+    }
+  ],
+  "taxonomy": {
+    "author": "open tree of life project",
+    "name": "ott",
+    "source": "ott3.7draft2",
+    "version": "3.7",
+    "weburl": "https://tree.opentreeoflife.org/about/taxonomy-version/ott3.7"
+  },
+  "unambiguous_names": [
+    "derris elliptica",
+    "erythroxylum coca",
+    "strophanthus hispidus"
+  ],
+  "unmatched_names": []
+}

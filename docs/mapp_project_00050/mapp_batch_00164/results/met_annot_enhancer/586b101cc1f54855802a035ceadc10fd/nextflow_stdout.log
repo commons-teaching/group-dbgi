@@ -1,0 +1,1533 @@
+
+ N E X T F L O W   ~  version 24.04.4
+
+Launching `/app/workflows_user/feature_based_molecular_networking_workflow/nf_workflow.nf` [jovial_boltzmann] DSL2 - revision: b2294b5da7
+
+WARN: java.net.ConnectException: Connection refused
+[-        ] filesummary                    -
+[-        ] qua…fication_table_reformatted -
+[-        ] filter_spectra                 -
+
+[-        ] filesummary                    -
+[-        ] qua…fication_table_reformatted -
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[-        ] summaryLibrary                 -
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+
+[-        ] filesummary                    -
+[-        ] qua…fication_table_reformatted -
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[-        ] summaryLibrary                 -
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[-        ] createMetadataFile             -
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+[-        ] filesummary                    -
+[-        ] qua…fication_table_reformatted -
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[-        ] summaryLibrary                 | 0 of 11
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[-        ] createMetadataFile             -
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (3)
+[-        ] filesummary                    | 0 of 1
+[-        ] qua…fication_table_reformatted | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[30/71b985] summaryLibrary (27)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[-        ] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (4)
+[-        ] filesummary                    | 0 of 1
+[-        ] qua…fication_table_reformatted | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[5e/1048b6] summaryLibrary (22)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[-        ] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (7)
+[-        ] filesummary                    | 0 of 1
+[-        ] qua…fication_table_reformatted | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[88/056872] summaryLibrary (32)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[-        ] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (10)
+[-        ] filesummary                    | 0 of 1
+[-        ] qua…fication_table_reformatted | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[71/c667a6] summaryLibrary (28)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[-        ] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (15)
+[-        ] filesummary                    | 0 of 1
+[-        ] qua…fication_table_reformatted | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[0f/8ac9f8] summaryLibrary (15)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[-        ] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (20)
+[-        ] filesummary                    | 0 of 1
+[-        ] qua…fication_table_reformatted | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[1b/6fa6a2] summaryLibrary (4)             | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[-        ] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (26)
+[-        ] filesummary                    | 0 of 1
+[-        ] qua…fication_table_reformatted | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[36/32f3dd] summaryLibrary (13)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (32)
+[6a/faaa38] filesummary (1)                | 0 of 1
+[b0/278e5a] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[ac/85a192] summaryLibrary (59)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (38)
+[6a/faaa38] filesummary (1)                | 0 of 1
+[b0/278e5a] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[2a/10f7c3] summaryLibrary (6)             | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (43)
+[6a/faaa38] filesummary (1)                | 0 of 1
+[b0/278e5a] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[06/15d69a] summaryLibrary (36)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (48)
+[6a/faaa38] filesummary (1)                | 0 of 1
+[b0/278e5a] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[e9/e0ae0e] summaryLibrary (42)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (54)
+[6a/faaa38] filesummary (1)                | 0 of 1
+[b0/278e5a] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[bb/a523ed] summaryLibrary (49)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (59)
+[6a/faaa38] filesummary (1)                | 0 of 1
+[b0/278e5a] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[c0/2943b5] summaryLibrary (54)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (63)
+[6a/faaa38] filesummary (1)                | 0 of 1
+[b0/278e5a] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[0f/e6ac2e] summaryLibrary (58)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (69)
+[6a/faaa38] filesummary (1)                | 0 of 1
+[b0/278e5a] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[04/187c13] summaryLibrary (66)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (71)
+[6a/faaa38] filesummary (1)                | 0 of 1
+[b0/278e5a] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[41/ee668a] summaryLibrary (68)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (71)
+[6a/faaa38] filesummary (1)                | 0 of 1
+[b0/278e5a] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[41/ee668a] summaryLibrary (68)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+
+executor >  slurm (71)
+[6a/faaa38] filesummary (1)                | 0 of 1
+[b0/278e5a] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[41/ee668a] summaryLibrary (68)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (71)
+[6a/faaa38] filesummary (1)                | 0 of 1
+[b0/278e5a] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[41/ee668a] summaryLibrary (68)            | 0 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (71)
+[6a/faaa38] filesummary (1)                | 0 of 1
+[b0/278e5a] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[9f/79b1e4] summaryLibrary (29)            | 6 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (71)
+[6a/faaa38] filesummary (1)                | 0 of 1
+[b0/278e5a] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[71/c667a6] summaryLibrary (28)            | 11 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 0 of 1
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (71)
+[6a/faaa38] filesummary (1)                | 0 of 1
+[b0/278e5a] qua…tion_table_reformatted (1) | 0 of 1
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[50/4681ae] summaryLibrary (53)            | 21 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[-        ] calculateGroupings             -
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              -
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (71)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[-        ] filter_spectra                 -
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[ac/2b2cdd] summaryLibrary (24)            | 28 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[-        ] calculateGroupings             | 0 of 1
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[-        ] createTallRawData              | 0 of 1
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (73)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[-        ] filter_spectra                 | 0 of 1
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[43/044b61] summaryLibrary (40)            | 41 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 0 of 1
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 0 of 1
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (74)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 0 of 1
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[e9/e0ae0e] summaryLibrary (42)            | 42 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 0 of 1
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 0 of 1
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (74)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 0 of 1
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[1c/c4d885] summaryLibrary (60)            | 62 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 0 of 1
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 0 of 1
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (74)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 0 of 1
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[04/187c13] summaryLibrary (66)            | 67 of 68
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 0 of 1
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 0 of 1
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (74)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 0 of 1
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 0 of 1
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 0 of 1
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (74)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 0 of 1
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 0 of 1
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 0 of 1
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (74)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 0 of 1
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       -
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 0 of 1
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (74)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[-        ] librarySearchData              -
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[-        ] networkingGNPSPrepParams       | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (76)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[1c/5b5ded] librarySearchData (21)         | 0 of 52
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (81)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[0f/ac9da5] librarySearchData (5)          | 0 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (89)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[4b/e564a5] librarySearchData (31)         | 0 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (92)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[b3/e28ea2] librarySearchData (12)         | 0 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (97)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[8a/6724a1] librarySearchData (14)         | 0 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (101)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[71/d41de3] librarySearchData (46)         | 0 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (104)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[d4/64ed5c] librarySearchData (19)         | 0 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (109)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[a5/b6f581] librarySearchData (22)         | 0 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (116)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[55/f00bbe] librarySearchData (39)         | 0 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (122)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[31/335cb2] librarySearchData (43)         | 0 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (128)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[9e/ce8e40] librarySearchData (68)         | 0 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (134)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[98/5d57b4] librarySearchData (65)         | 0 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (138)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[c6/bb466f] librarySearchData (63)         | 0 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (143)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[d6/024df6] librarySearchData (67)         | 0 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (143)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[d6/024df6] librarySearchData (67)         | 0 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 0 of 1
+[-        ] calculatePairs                 -
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (145)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[3d/0207a8] librarySearchData (29)         | 2 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[3d/0207a8] librarySearchData (29)         | 2 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[4b/e564a5] librarySearchData (31)         | 9 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[11/bd3eaf] librarySearchData (23)         | 14 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[71/d41de3] librarySearchData (46)         | 21 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[78/0af5db] librarySearchData (51)         | 35 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[92/cef09c] librarySearchData (56)         | 48 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[d6/024df6] librarySearchData (67)         | 54 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[e0/72ad17] librarySearchData (62)         | 56 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[00/0a996d] librarySearchData (49)         | 58 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[5c/49e947] librarySearchData (38)         | 59 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[d7/9f060c] librarySearchData (57)         | 60 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[26/452563] librarySearchData (3)          | 62 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[6f/d0360b] librarySearchData (61)         | 64 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[06/c48004] librarySearchData (10)         | 65 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[fb/2730e9] librarySearchData (47)         | 66 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[c6/bb466f] librarySearchData (63)         | 67 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[c6/bb466f] librarySearchData (63)         | 67 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 0 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[c6/bb466f] librarySearchData (63)         | 67 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[6b/01b523] calculatePairs (4)             | 1 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[c6/bb466f] librarySearchData (63)         | 67 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[e9/5e16a7] calculatePairs (3)             | 2 of 4
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (147)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[c6/bb466f] librarySearchData (63)         | 67 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[-        ] filterNetwork                  -
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (148)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[c6/bb466f] librarySearchData (63)         | 67 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[37/72302d] filterNetwork (1)              | 0 of 1
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+executor >  slurm (148)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[c6/bb466f] librarySearchData (63)         | 67 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[37/72302d] filterNetwork (1)              | 0 of 1
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (148)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[c6/bb466f] librarySearchData (63)         | 67 of 68
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[37/72302d] filterNetwork (1)              | 1 of 1 ✔
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (148)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[1c/5b5ded] librarySearchData (21)         | 68 of 68 ✔
+[-        ] librarymergeResults            -
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[37/72302d] filterNetwork (1)              | 1 of 1 ✔
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (149)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[1c/5b5ded] librarySearchData (21)         | 68 of 68 ✔
+[a8/3e1c59] librarymergeResults            | 0 of 1
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[37/72302d] filterNetwork (1)              | 1 of 1 ✔
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (149)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[1c/5b5ded] librarySearchData (21)         | 68 of 68 ✔
+[a8/3e1c59] librarymergeResults            | 0 of 1
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[-        ] librarygetGNPSAnnotations      -
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[37/72302d] filterNetwork (1)              | 1 of 1 ✔
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (150)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[1c/5b5ded] librarySearchData (21)         | 68 of 68 ✔
+[a8/3e1c59] librarymergeResults            | 1 of 1 ✔
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[40/a9e130] librarygetGNPSAnnotations (1)  | 0 of 1
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[37/72302d] filterNetwork (1)              | 1 of 1 ✔
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (150)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[1c/5b5ded] librarySearchData (21)         | 68 of 68 ✔
+[a8/3e1c59] librarymergeResults            | 1 of 1 ✔
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[40/a9e130] librarygetGNPSAnnotations (1)  | 0 of 1
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[37/72302d] filterNetwork (1)              | 1 of 1 ✔
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           -
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (150)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[1c/5b5ded] librarySearchData (21)         | 68 of 68 ✔
+[a8/3e1c59] librarymergeResults            | 1 of 1 ✔
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[40/a9e130] librarygetGNPSAnnotations (1)  | 1 of 1 ✔
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[37/72302d] filterNetwork (1)              | 1 of 1 ✔
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[-        ] enrichClusterSummary           | 0 of 1
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (151)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[1c/5b5ded] librarySearchData (21)         | 68 of 68 ✔
+[a8/3e1c59] librarymergeResults            | 1 of 1 ✔
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[40/a9e130] librarygetGNPSAnnotations (1)  | 1 of 1 ✔
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[37/72302d] filterNetwork (1)              | 1 of 1 ✔
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[ad/3861c8] enrichClusterSummary (1)       | 0 of 1
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (151)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[1c/5b5ded] librarySearchData (21)         | 68 of 68 ✔
+[a8/3e1c59] librarymergeResults            | 1 of 1 ✔
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[40/a9e130] librarygetGNPSAnnotations (1)  | 1 of 1 ✔
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[37/72302d] filterNetwork (1)              | 1 of 1 ✔
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[ad/3861c8] enrichClusterSummary (1)       | 0 of 1
+[-        ] createNetworkGraphML           -
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (152)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[1c/5b5ded] librarySearchData (21)         | 68 of 68 ✔
+[a8/3e1c59] librarymergeResults            | 1 of 1 ✔
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[40/a9e130] librarygetGNPSAnnotations (1)  | 1 of 1 ✔
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[37/72302d] filterNetwork (1)              | 1 of 1 ✔
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[ad/3861c8] enrichClusterSummary (1)       | 1 of 1 ✔
+[b8/2b65e2] createNetworkGraphML (1)       | 0 of 1
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (152)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[1c/5b5ded] librarySearchData (21)         | 68 of 68 ✔
+[a8/3e1c59] librarymergeResults            | 1 of 1 ✔
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[40/a9e130] librarygetGNPSAnnotations (1)  | 1 of 1 ✔
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[37/72302d] filterNetwork (1)              | 1 of 1 ✔
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[ad/3861c8] enrichClusterSummary (1)       | 1 of 1 ✔
+[b8/2b65e2] createNetworkGraphML (1)       | 0 of 1
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (152)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[1c/5b5ded] librarySearchData (21)         | 68 of 68 ✔
+[a8/3e1c59] librarymergeResults            | 1 of 1 ✔
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[40/a9e130] librarygetGNPSAnnotations (1)  | 1 of 1 ✔
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[37/72302d] filterNetwork (1)              | 1 of 1 ✔
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[ad/3861c8] enrichClusterSummary (1)       | 1 of 1 ✔
+[b8/2b65e2] createNetworkGraphML (1)       | 1 of 1 ✔
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+
+
+executor >  slurm (152)
+[6a/faaa38] filesummary (1)                | 1 of 1 ✔
+[b0/278e5a] qua…tion_table_reformatted (1) | 1 of 1 ✔
+[da/c3ff46] filter_spectra (1)             | 1 of 1 ✔
+[1c/5b5ded] librarySearchData (21)         | 68 of 68 ✔
+[a8/3e1c59] librarymergeResults            | 1 of 1 ✔
+[3b/d23a58] summaryLibrary (63)            | 68 of 68 ✔
+[40/a9e130] librarygetGNPSAnnotations (1)  | 1 of 1 ✔
+[e0/87c009] networkingGNPSPrepParams (1)   | 1 of 1 ✔
+[63/82333d] calculatePairs (1)             | 4 of 4 ✔
+[37/72302d] filterNetwork (1)              | 1 of 1 ✔
+[5e/4146a9] createMetadataFile             | 1 of 1 ✔
+[f9/fd2585] calculateGroupings (1)         | 1 of 1 ✔
+[ad/3861c8] enrichClusterSummary (1)       | 1 of 1 ✔
+[b8/2b65e2] createNetworkGraphML (1)       | 1 of 1 ✔
+[fb/73c482] createTallRawData (1)          | 1 of 1 ✔
+WARN: java.net.ConnectException: Connection refused
+Completed at: 07-May-2025 12:37:48
+Duration    : 24m 13s
+CPU hours   : 0.5
+Succeeded   : 152
+
+
