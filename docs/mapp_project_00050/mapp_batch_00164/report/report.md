@@ -14,7 +14,7 @@ Throughout evolution, plant species have developed different traits to adapt and
 Today, the field of metabolomics seeks to investigate and understand these specialized compounds, exploring how plants use them to interact with their environment and defend themselves.  
 In many tropical regions, indigenous communities still live in close relationship with nature and rely on plant-derived metabolites for surviving and hunting. In this context, our study focused on three tropical plant species of particular interest: _Derris elliptica_, _Erythroxylum coca_, and _Strophanthus hispidus_.  
 For example _Derris ellipctica_ is used in traditional medicine to treat various conditions like bleeding, toothache or stomachache (Khan, 2006). 
-[Erythroxylum coca] (https://it.wikipedia.org/wiki/Erythroxylum_coca) è una pianta originaria del sud america 
+[Erythroxylum coca](https://it.wikipedia.org/wiki/Erythroxylum_coca) è una pianta originaria del sud america 
 
 ## Material and Methods
 ## Results
