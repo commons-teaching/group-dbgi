@@ -5,6 +5,7 @@ Michele Cereghetti
 Tanguy Schmidt
 
 ## Introduction
+Plants have always been a source of human interest. Human beings have observed, studied and exploited these living things and have learned to recognize the properties of different species . Plants have thus assumed a fundamental role in food, medicine, construction and many other areas.
 ## Material and Methods
 ## Results
 ## Conclusion
