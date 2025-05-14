@@ -16,7 +16,7 @@ In many tropical regions, indigenous communities still live in close relationshi
   
 For example [_Derris ellipctica_](https://en.wikipedia.org/wiki/Derris_elliptica) is used in traditional medicine to treat various conditions like bleeding, toothache or stomachache (Khan, 2006).  
   
-[_Erythroxylum coca_](https://it.wikipedia.org/wiki/Erythroxylum_coca) is a plant native to South America. It is a small shrub that can reach 3 meters in height and grows in humid forests. It is known worldwide to be the source of a psychoactive alkaloid, cocaine. This metabolite present inthe leaves of the plant is used as a narcotic, but it also for anesthetic properties in medical applications. _Erythroxylum coca_ was also used for the production of liqueurs and drinks. The original recipe for "Coca-Cola" and some wines were flavored by adding the leaves of the plant.  
+[_Erythroxylum coca_](https://it.wikipedia.org/wiki/Erythroxylum_coca) is a plant native to South America. It is a small shrub that can reach 3 meters in height and grows in humid forests. It is known worldwide to be the source of a psychoactive alkaloid, [cocaine](https://www.wikidata.org/wiki/Q41576). This metabolite present inthe leaves of the plant is used as a narcotic, but it also for anesthetic properties in medical applications. _Erythroxylum coca_ was also used for the production of liqueurs and drinks. The original recipe for "Coca-Cola" and some wines were flavored by adding the leaves of the plant.  
 
 The objective of this study is to use metabolomics to confirm the presence of the known bioactive metabolites produced by these three plants and to try to define similarities and differences they possess among each other.
 
