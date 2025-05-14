@@ -10,7 +10,15 @@ Report 09.06.2025
 - Jonas Hendricks  
 
 ## Introduction
-Plants have always been a source of human interest. Human beings have observed, studied and exploited these living things and have learned to recognize the properties of different species . Plants have thus assumed a fundamental role in food, medicine, construction and many other areas.  
+Throughout evolution, plant species have developed different traits to adapt and survive in response to environmental pressures. One known strategy is the production of specialized metabolites, which often serve as  defenses by making the plant unpalatable or toxic to herbivores. These metabolites not only play a vital role in plant survival, but they have also long attracted human interest. Over time, plants were observed and studied, and humans recognized their unique properties and applied them for food and medicine priduction, but also for hunting.  
+Today, the field of metabolomics seeks to investigate and understand these specialized compounds, exploring how plants use them to interact with their environment and defend themselves.
+
+In many tropical regions, indigenous communities still live in close relationship with nature and rely heavily on certain plant-derived metabolites for daily life and subsistence activities, including hunting.
+
+In this context, our study focused on three tropical plant species of particular interest: Derris elliptica, Erythroxylum coca, and Strophanthus hispidus.
+
+For example _Derris ellipctica_ is used in traditional medicine to treat various conditions like bleeding,  toothache or stomachache (Khan, 2006).
+  
 
 For example _Derris ellipctica_ is used in traditional medicine to treat various conditions like bleeding, toothache or stomachache (Khan, 2006). 
 
