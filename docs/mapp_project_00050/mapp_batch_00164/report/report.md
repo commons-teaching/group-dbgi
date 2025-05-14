@@ -18,4 +18,4 @@ For example _Derris ellipctica_ is used in traditional medicine to treat various
 ## Results
 ## Conclusion
 ## References
-[1] 
+[1] Khan, M. R., Omoloso, A. D., & Barewai, Y. (2006). Antimicrobial activity of the Derris elliptica, Derris indica and Derris trifoliata extractives. Fitoterapia, 77(4), 327-330.
