@@ -23,7 +23,10 @@ The objective of this study is to use metabolomics to confirm the presence of th
 ## Material and Methods
 ### Samples collection
 Samples from the three plants in our study were collected at the botanical garden of the University of Fribourg. The samples were collected using sterile scalpels and scissors and immediately frozen in liquid nitrogen to minimize alterations of their metabolomes caused by the gathering.
-https://www.inaturalist.org/observations/208861685 (lien naturalist ou il y a quelque photos de erythroxylum, potentiellement utile)
+https://www.inaturalist.org/observations/208861685 (lien naturalist potentiellement utile mais ca ne sont pas nos propres photos)
+https://www.inaturalist.org/observations/117770419 same for derris
+https://www.inaturalist.org/observations/117770425 same for hispidus
+
 ### Samples preparation
 ## Results
 ## Conclusion
