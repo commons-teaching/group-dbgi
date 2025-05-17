@@ -21,6 +21,9 @@ For example [_Derris ellipctica_](https://en.wikipedia.org/wiki/Derris_elliptica
 The objective of this study is to use metabolomics to confirm the presence of the known bioactive metabolites produced by these three plants and to try to define similarities and differences they possess among each other.
 
 ## Material and Methods
+### Samples collection
+
+### Samples preparation
 ## Results
 ## Conclusion
 ## References
