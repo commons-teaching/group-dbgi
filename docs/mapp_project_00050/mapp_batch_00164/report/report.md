@@ -18,19 +18,16 @@ In many tropical regions, indigenous communities still live in close relationshi
   
 [_Erythroxylum coca_](https://it.wikipedia.org/wiki/Erythroxylum_coca) is a plant native to South America. It is a small shrub that can reach 3 meters in height and grows in humid forests. It is known worldwide to be the source of a psychoactive alkaloid, [cocaine](https://www.wikidata.org/wiki/Q41576). This metabolite present in the leaves of the plant is used as a narcotic, but it also for anesthetic properties in medical applications. _Erythroxylum coca_ was also used for the production of liqueurs and drinks. The original recipe for "Coca-Cola" and some wines were flavored by adding the leaves of the plant.
 
-[_Strophantus Hispidus_](https://en.wikipedia.org/wiki/Strophanthus_hispidus) belonging to the genus _Strophantus_ and family of _Apocyaceneae_ is native to the african continent and common in tropical regions as well as savannah forests predominantly in Ghana, Senegal, Sudan, Congo DR, Uganda, and Tanzania[^3]. Local names for the plants are differing and there are more than 40 names commonly known in West-Africa often referring to its poisenous compounds[^4]. Most well known is the plants use as an arrow poison[^5]. The plant also has its use for traditional medicinal applications, as such Agyara et al. have proven its antimicrobial, antioxidant, and enhanced wound healing properties. In western Europe the plant found its use as a heart stimulant and to treat hypotension and some arrhythmias[^6]. The main group of characteristic compounds found in _Strophantus hispidus_ are the _strophantines_ also known as 'ouabain' belonging to the group of _cardinolides_ and cardiac glycosides.
+[_Strophantus Hispidus_](https://en.wikipedia.org/wiki/Strophanthus_hispidus) belonging to the genus _Strophantus_ and family of _Apocyaceneae_ is native to the african continent and common in tropical regions as well as savannah forests predominantly in Ghana, Senegal, Sudan, Congo DR, Uganda, and Tanzania[^3]. Local names for the plants are differing and there are more than 40 names commonly known in West-Africa often referring to its poisenous compounds[^4]. Most well known is the plants use as an arrow poison[^5]. The plant also has its use for traditional medicinal applications, as such Agyara et al. have proven its antimicrobial, antioxidant, and enhanced wound healing properties. In western Europe the plant found its use as a heart stimulant and to treat hypotension and some arrhythmias[^6]. The main group of characteristic compounds found in _Strophantus hispidus_ are the _strophantines_ also known as [ouabain](https://www.wikidata.org/wiki/Q60074861) belonging to the group of _cardinolides_ and cardiac glycosides.
 
 The objective of this study is to use metabolomics to confirm the presence of the known bioactive metabolites produced by these three plants and to try to define similarities and differences they possess among each other.
 
 ## Material and Methods
 ### Samples collection
-In our study, samples from the three plants were collected at the botanical garden of the University of Fribourg. This were collected using sterile scalpels and scissors to cut plants leaves. The tissues were immediately frozen in liquid nitrogen to minimize alterations of their metabolomes caused by the gathering.
-
-https://www.inaturalist.org/observations/208861685 (lien naturalist potentiellement utile mais ca ne sont pas nos propres photos)  
-https://www.inaturalist.org/observations/117770419 same for derris  
-https://www.inaturalist.org/observations/117770425 same for hispidus  
+In our study, samples from the three plants were collected from the tropical greenhouse of Jardin de Botanique de l'Université de Fribourg. Pictures of the plants were taken and uploaded in the DGBI project in the iNaturalist domain ([_Derris ellipctica_](https://www.inaturalist.org/observations/117770419), [_Erythroxylum coca_](https://www.inaturalist.org/observations/208861685) and [_Strophantus Hispidus_](https://www.inaturalist.org/observations/117770425) ). Samples were collected using sterile scalpels to cut one or two plant leaves. Tissues were placed inside a 50 mL Falcon tube and immediately frozen in liquid nitrogen to minimize alterations of their metabolomes caused by the gathering.
 
 ### Samples preparation
+
 ## Results
 ## Conclusion
 ## References
