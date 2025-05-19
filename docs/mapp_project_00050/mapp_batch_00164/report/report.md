@@ -27,6 +27,9 @@ The objective of this study is to use metabolomics to confirm the presence of th
 In our study, samples from the three plants were collected from the tropical greenhouse of Jardin de Botanique de l'Université de Fribourg. Pictures of the plants were taken and uploaded in the DGBI project in the iNaturalist domain ([_Derris ellipctica_](https://www.inaturalist.org/observations/117770419), [_Erythroxylum coca_](https://www.inaturalist.org/observations/208861685) and [_Strophantus Hispidus_](https://www.inaturalist.org/observations/117770425) ). Samples were collected using sterile scalpels to cut one or two plant leaves. Tissues were placed inside a 50 mL Falcon tube and immediately frozen in liquid nitrogen to minimize alterations of their metabolomes caused by the gathering.
 
 ### Samples preparation
+Falcon tubes are reopened in the laboratory. Due to the drop in temperature, the leaves were broken. Therefore, we collected fragments of plant tissue to a weight of about 150 ug for every plant. Fragments were then placed in an Eppendorf and 1.5 mL of solvent (80% de méthanol, 20% d'eau et 0.2% d'acide formique) was added to it. To it, we added 2 or 3 metal spheres and then inserted the samples into the Retsch machine for 3 minutes to break the tissues into smaller fragments and extract metabolites. Thereafter, the samples were centrifuged to settle the solid particles. thus 1 mL of supernatant was taken and placed in special glass tubes. 
+
+### LCMS analysis
 
 ## Results
 ## Conclusion
