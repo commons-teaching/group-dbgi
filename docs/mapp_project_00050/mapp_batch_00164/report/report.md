@@ -38,6 +38,6 @@ https://www.inaturalist.org/observations/117770425 same for hispidus
 [^2]: Ling, Nicholas. (2003). Rotenone - A review of its toxicity and use for fisheries management. Science for Conservation. 211. 1-40. 
 [^3]:Agyare, C., Dwobeng, A. S., Agyepong, N., Boakye, Y. D., Mensah, K. B., Ayande, P. G., & Adarkwa-Yiadom, M. (2013). Antimicrobial, antioxidant, and wound healing properties of Kigelia africana (Lam.) Beneth. and Strophanthus hispidus DC. Advances in Pharmacological and Pharmaceutical Sciences, 2013(1), 692613.
 [^4]:Burkill, H. M. (1985). The useful plants of West Tropical Africa, vol. 1. Royal Botanic Gardens, Kew, 343.
-[^5]Fraser, T. R. (1890). XXI.—Strophanthus hispidus: its Natural History, Chemistry, and Pharmacology. Transactions of the Royal Society of Edinburgh, 35(4), 955–1027. doi:10.1017/S0080456800008589
-[^6]Fürstenwerth, H. (2010). Ouabain-the insulin of the heart. International journal of clinical practice, 64(12), 1591.
+[^5]:Fraser, T. R. (1890). XXI.—Strophanthus hispidus: its Natural History, Chemistry, and Pharmacology. Transactions of the Royal Society of Edinburgh, 35(4), 955–1027. doi:10.1017/S0080456800008589
+[^6]:Fürstenwerth, H. (2010). Ouabain-the insulin of the heart. International journal of clinical practice, 64(12), 1591.
 
