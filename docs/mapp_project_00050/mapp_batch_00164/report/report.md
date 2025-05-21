@@ -33,8 +33,10 @@ Falcon tubes are reopened in the laboratory. Due to the drop in temperature, the
 Liquid chromatography followed by mass spectrometry analysis (LC-MS) was used to analyze the samples. It consists on a first part with the use of an ultra high-performance liquid chromatography (UPLC), a more sensitive and rapid version of HPLC. The molecules are then separated via a reverse-phase column according to their polarity. Then the samples are injected inside the mass spectrometer, where an MS/MS analysis is performed to obtain information about the metabolites present. The mass spectrometer used for this experiment is a Q-orbitrap.
 
 
+
 ## Results
 Concerning _Derris ellipctica_ we were unable to find features related to rotenone in the nodes network. 
+<img width="406" alt="cluster derris flavonoides" src="https://github.com/user-attachments/assets/a9705aac-3728-4484-bc36-e4a2d4b4bc4b" />
 ## Conclusion
 ## References
 [^1]: Khan, M. R., Omoloso, A. D., & Barewai, Y. (2006). Antimicrobial activity of the Derris elliptica, Derris indica and Derris trifoliata extractives. Fitoterapia, 77(4), 327-330. 
