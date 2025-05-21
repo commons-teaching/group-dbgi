@@ -32,6 +32,7 @@ Falcon tubes are reopened in the laboratory. Due to the drop in temperature, the
 ### LCMS analysis
 
 ## Results
+Concerning _Derris ellipctica_ we were unable to find features related to rotenone in the nodes network. 
 ## Conclusion
 ## References
 [^1]: Khan, M. R., Omoloso, A. D., & Barewai, Y. (2006). Antimicrobial activity of the Derris elliptica, Derris indica and Derris trifoliata extractives. Fitoterapia, 77(4), 327-330. 
