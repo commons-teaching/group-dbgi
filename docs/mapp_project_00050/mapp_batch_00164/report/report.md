@@ -30,6 +30,8 @@ In our study, samples from the three plants were collected from the tropical gre
 Falcon tubes are reopened in the laboratory. Due to the drop in temperature, the leaves were broken. Therefore, we collected fragments of plant tissue to a weight of about 150 ug for every plant. Fragments were then placed in an Eppendorf and 1.5 mL of solvent (80% de méthanol, 20% d'eau et 0.2% d'acide formique) was added to it. To it, we added 2 or 3 metal spheres and then inserted the samples into the Retsch machine for 3 minutes to break the tissues into smaller fragments and extract metabolites. Thereafter, the samples were centrifuged to settle the solid particles. thus 1 mL of supernatant was taken and placed in special glass tubes. 
 
 ### LCMS analysis
+Liquid chromatography followed by mass spectrometry analysis (LC-MS) was used to analyze the samples. It consists on a first part with the use of an ultra high-performance liquid chromatography (UPLC), a more sensitive and rapid version of HPLC. The molecules are then separated via a reverse-phase column according to their polarity. Then the samples are injected inside the mass spectrometer, where an MS/MS analysis is performed to obtain information about the metabolites present. The mass spectrometer used for this experiment is a Q-orbitrap.
+
 
 ## Results
 Concerning _Derris ellipctica_ we were unable to find features related to rotenone in the nodes network. 
