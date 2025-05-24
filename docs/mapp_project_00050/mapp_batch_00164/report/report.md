@@ -44,7 +44,7 @@ The data obtained from the LCMS were converted to a format supported do by the M
 - Isotope grouping. In this penultimate step, the isotopes of each ion are grouped into a single feature. in this way, the moinoisomeric mass of the feature can be obtained.
 - Feature alignment. The last step allows aligning the features detected in each sample to compare their different intensities.
 
-With these processed data and metadata, a molecular network was created to cluster and visualize the detected features. 
+With these processed data and metadata, a molecular network with [Cytoscape](https://cytoscape.org/) was created to cluster and visualize the detected features. 
 
 
 ## Results
