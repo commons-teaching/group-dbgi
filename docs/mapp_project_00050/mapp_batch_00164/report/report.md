@@ -52,9 +52,12 @@ With these processed data and metadata, a molecular network with [Cytoscape](htt
 ### MS1
 After the features allignment step we obtain 5839 features in the [final peak list](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list.csv).  
 By not taking blanks into account you get 5694 features that can be viuslized [here](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list_samples2.csv). 
+![Derris elliptica overview](https://github.com/user-attachments/assets/25acb808-9246-4eb4-8d0c-7ddda1d1bf58)
+![Erythroxylum coca overview](https://github.com/user-attachments/assets/cf480e9e-a28e-4424-aebc-5d6801e537c8)
+![Strophanthus hispidus overview](https://github.com/user-attachments/assets/17cfb7fb-b181-4721-8a9f-0e97eda07ddc)
 
 Concerning _Derris ellipctica_ we were unable to find features related to rotenone in the nodes network. 
-<img width="406" alt="cluster derris flavonoides" src="https://github.com/user-attachments/assets/a9705aac-3728-4484-bc36-e4a2d4b4bc4b" />
+
 ## Conclusion
 ## References
 [^1]: Khan, M. R., Omoloso, A. D., & Barewai, Y. (2006). Antimicrobial activity of the Derris elliptica, Derris indica and Derris trifoliata extractives. Fitoterapia, 77(4), 327-330. 
