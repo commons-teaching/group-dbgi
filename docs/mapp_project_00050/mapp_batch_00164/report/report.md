@@ -56,10 +56,16 @@ By not taking blanks into account you get 5694 features that can be viuslized [h
 Overview of the network of _Derris elliptica_  
 ![Erythroxylum coca overview](https://github.com/user-attachments/assets/cf480e9e-a28e-4424-aebc-5d6801e537c8)
 Overview of the network of _Derris elliptica_  
-![Strophanthus hispidus overview](https://github.com/user-attachments/assets/17cfb7fb-b181-4721-8a9f-0e97eda07ddc)
-Overview of the network of _Derris elliptica_  
+![Strophanthus hispidus overview](https://github.com/user-attachments/assets/17cfb7fb-b181-4721-8a9f-0e97eda07ddc)Overview of the network of _Derris elliptica_  
+
+
+
+
+
+  
 ![newplot](https://github.com/user-attachments/assets/e425f651-f06a-4818-aa0f-aeb042f4564c)
 Metabolites heatmap  
+
 Concerning _Derris ellipctica_ we were unable to find features related to rotenone in the nodes network.  
 ![Derris elliptica cluster 1](https://github.com/user-attachments/assets/e1b1b684-1d8c-4970-8d92-aeed0855f2da)
 Cluster 1  
