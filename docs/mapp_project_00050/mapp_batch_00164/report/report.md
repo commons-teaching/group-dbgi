@@ -32,12 +32,12 @@ Falcon tubes are reopened in the laboratory. Due to the drop in temperature, the
 ### LCMS analysis
 Liquid chromatography followed by mass spectrometry analysis (LC-MS) was used to analyze the samples. It consists on a first part with the use of an ultra high-performance liquid chromatography (UPLC), a more sensitive and rapid version of HPLC. The molecules are then separated via a reverse-phase column according to their polarity. Then the samples are injected inside the mass spectrometer, where an MS/MS analysis is performed to obtain information about the metabolites present. The mass spectrometer used for this experiment is a Q-orbitrap.
 
-[* LC conditions](https://github.com/commons-teaching/SBL.20004.2024/blob/main/lc_conditions.txt)
+[LC conditions](https://github.com/commons-teaching/SBL.20004.2024/blob/main/lc_conditions.txt)
 
-[* MS conditions ](https://github.com/commons-teaching/SBL.20004.2024/blob/main/ms_conditions.txt)
+[MS conditions ](https://github.com/commons-teaching/SBL.20004.2024/blob/main/ms_conditions.txt)
 
 ### Data treatment
-
+The data obtained from the LCMS were converted to a format supported do by the MZmine program ([like ProteoWizard](https://proteowizard.sourceforge.io/)) and through this software were analyzed. Then the data were processed in this order to obtain the features list of our samples: 
 
 
 
