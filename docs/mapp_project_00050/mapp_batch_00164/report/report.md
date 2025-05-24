@@ -66,7 +66,7 @@ By not taking blanks into account you get 5694 features that can be viuslized [h
 ![newplot](https://github.com/user-attachments/assets/e425f651-f06a-4818-aa0f-aeb042f4564c) <p align="center">Metabolites heatmap of the 3 plants</p>
 
   
-Concerning _Derris ellipctica_ we were unable to find features related to rotenone in the nodes network.  
+Concerning _Derris ellipctica_ we were unable to find any cluster related to rotenone in the nodes network. After some researchs it turns out this compound is concentred in the roots of the plant[^1]. As we collected the leaves for the analysis it makes sens we didn't find anything related to this metabolite.
 ![Derris elliptica cluster 1](https://github.com/user-attachments/assets/e1b1b684-1d8c-4970-8d92-aeed0855f2da)
 Cluster 1  
 ![Derris elliptica cluster 1 strucutre 1a](https://github.com/user-attachments/assets/36748ce0-b8a2-49a9-9e49-ce81595a9567)![Derris elliptica cluster 1 strucutre 1b](https://github.com/user-attachments/assets/60e79c10-806f-4667-84a5-f3fbd9218442)  
@@ -88,4 +88,5 @@ Structure of strophanthidin
 [^4]:Burkill, H. M. (1985). The useful plants of West Tropical Africa, vol. 1. Royal Botanic Gardens, Kew, 343.
 [^5]:Fraser, T. R. (1890). XXI.—Strophanthus hispidus: its Natural History, Chemistry, and Pharmacology. Transactions of the Royal Society of Edinburgh, 35(4), 955–1027. doi:10.1017/S0080456800008589
 [^6]:Fürstenwerth, H. (2010). Ouabain-the insulin of the heart. International journal of clinical practice, 64(12), 1591.
+[^7]:Zubairi, S.I., Sarmidi, M.R., & Aziz, R. (2014). A Study of Rotenone from Derris Roots of Varies Location, Plant Parts and Types of Solvent Used. Advances in Environmental Biology, 8, 445-449.
 
