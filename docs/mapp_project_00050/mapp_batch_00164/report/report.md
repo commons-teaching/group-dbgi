@@ -52,35 +52,27 @@ With these processed data and metadata, a molecular network with [Cytoscape](htt
 ### MS1
 After the features allignment step we obtain 5839 features in the [final peak list](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list.csv).  
 By not taking blanks into account you get 5694 features that can be viuslized [here](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list_samples2.csv). 
-![Derris elliptica overview](https://github.com/user-attachments/assets/25acb808-9246-4eb4-8d0c-7ddda1d1bf58)
-Overview of the network of _Derris elliptica_
+![Derris elliptica overview](https://github.com/user-attachments/assets/25acb808-9246-4eb4-8d0c-7ddda1d1bf58)  
+Overview of the network of _Derris elliptica_  
 ![Erythroxylum coca overview](https://github.com/user-attachments/assets/cf480e9e-a28e-4424-aebc-5d6801e537c8)
-Overview of the network of _Derris elliptica_
+Overview of the network of _Derris elliptica_  
 ![Strophanthus hispidus overview](https://github.com/user-attachments/assets/17cfb7fb-b181-4721-8a9f-0e97eda07ddc)
-Overview of the network of _Derris elliptica_
-
+Overview of the network of _Derris elliptica_  
 ![newplot](https://github.com/user-attachments/assets/e425f651-f06a-4818-aa0f-aeb042f4564c)
-
+Metabolites heatmap  
+Concerning _Derris ellipctica_ we were unable to find features related to rotenone in the nodes network.  
 ![Derris elliptica cluster 1](https://github.com/user-attachments/assets/e1b1b684-1d8c-4970-8d92-aeed0855f2da)
-Cluster 1
+Cluster 1  
 ![Derris elliptica cluster 1 strucutre 1a](https://github.com/user-attachments/assets/36748ce0-b8a2-49a9-9e49-ce81595a9567)![Derris elliptica cluster 1 strucutre 1b](https://github.com/user-attachments/assets/60e79c10-806f-4667-84a5-f3fbd9218442)
-Structure of Clerodendrin and Eriodictyol
+Structure of Clerodendrin and Eriodictyol  
 ![Erythroxylum coca cluster cocaine](https://github.com/user-attachments/assets/41beab70-d4f7-4ef3-ab3b-2657a1630624)
-Cluster 2
+Cluster 2  
 ![Erythroxylum coca structure cocaine](https://github.com/user-attachments/assets/16161141-1044-42cb-8255-0bf7632ae244)
-Structure of cocaine
+Structure of cocaine  
 ![Strophanthus hispidus cluster Strophanthidin ](https://github.com/user-attachments/assets/70b40da8-d61c-43ce-8b47-0f15b7e0f69a)
-Cluster 3
+Cluster 3  
 ![Strophanthus hispidus structureStrophanthidin ](https://github.com/user-attachments/assets/f6451cd4-8a3d-4821-8133-d8dc26c8ed36)
-Structure of strophanthidin
-
-
-
-
-
-
-
-Concerning _Derris ellipctica_ we were unable to find features related to rotenone in the nodes network. 
+Structure of strophanthidin  
 
 ## Conclusion
 ## References
