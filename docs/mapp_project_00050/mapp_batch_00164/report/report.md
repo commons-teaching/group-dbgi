@@ -38,7 +38,13 @@ Liquid chromatography followed by mass spectrometry analysis (LC-MS) was used to
 
 ### Data treatment
 The data obtained from the LCMS were converted to a format supported do by the MZmine program (like [ProteoWizard](https://proteowizard.sourceforge.io/)) and through this software were analyzed. Then the data were processed in this order to obtain the features list of our samples: 
-- Mass pick detection
+- Mass pick detection. In this initial step, the peaks from the spectrometry data are identified, identifying the true peaks and removing the noise.
+- Chromatogram building. A chromatogram (XIC/EIC) is created for each detected ion. This allows the visualization of how the ion’s intensity changes over time, showing its retention time.
+- Chromatogram deconvolution. Here peaks are identified and separated in the chromatogram.
+- Isotope grouping. In this penultimate step, the isotopes of each ion are grouped into a single feature. in this way, the moinoisomeric mass of the feature can be obtained.
+- Feature alignment. The last step allows aligning the features detected in each sample to compare their different intensities.
+
+With these processed data and metadata, a molecular network was created to cluster and visualize the detected features. 
 
 
 ## Results
