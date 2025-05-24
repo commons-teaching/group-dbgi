@@ -54,7 +54,10 @@ After the features allignment step we obtain 5839 features in the [final peak li
 By not taking blanks into account you get 5694 features that can be viuslized [here](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list_samples2.csv).
 
   
-![Derris elliptica overview](https://github.com/user-attachments/assets/10d83b14-113a-45de-87c7-ed919817740a) <p align="center">Overview of the network of Derris elliptica</p>
+![Derris elliptica overview](https://github.com/user-attachments/assets/10d83b14-113a-45de-87c7-ed919817740a) <p align="center">Overview of the network of Derris elliptica</p>  
+
+
+      
 
   
 ![Erythroxylum coca overview](https://github.com/user-attachments/assets/19e42fad-f31c-4b73-9360-9f173ed82476) <p align="center">Overview of the network of Erythroxylum coca</p>
@@ -66,7 +69,7 @@ By not taking blanks into account you get 5694 features that can be viuslized [h
 ![newplot](https://github.com/user-attachments/assets/e425f651-f06a-4818-aa0f-aeb042f4564c) <p align="center">Metabolites heatmap of the 3 plants</p>
 
   
-Concerning _Derris ellipctica_ we were unable to find any cluster related to rotenone in the nodes network. After some researchs it turns out this compound is concentred in the roots of the plant[^1]. As we collected the leaves for the analysis it makes sens we didn't find anything related to this metabolite.
+Concerning _Derris ellipctica_ we were unable to find any cluster related to rotenone in the nodes network. After some researchs it turns out this compound is concentred in the roots of the plant[^7]. As we collected the leaves for the analysis it makes sens we didn't find anything related to this metabolite. However some clusters showing unique compounds to _Derris ellipctica_ were identified.
 ![Derris elliptica cluster 1](https://github.com/user-attachments/assets/e1b1b684-1d8c-4970-8d92-aeed0855f2da)
 Cluster 1  
 ![Derris elliptica cluster 1 strucutre 1a](https://github.com/user-attachments/assets/36748ce0-b8a2-49a9-9e49-ce81595a9567)![Derris elliptica cluster 1 strucutre 1b](https://github.com/user-attachments/assets/60e79c10-806f-4667-84a5-f3fbd9218442)  
