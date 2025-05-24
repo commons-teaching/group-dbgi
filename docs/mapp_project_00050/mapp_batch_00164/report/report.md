@@ -63,7 +63,7 @@ By not taking blanks into account you get 5694 features that can be viuslized [h
 ![Strophanthus hispidus overview](https://github.com/user-attachments/assets/7a4f64fe-645b-43b2-8dae-7c5801177060) <p align="center">Overview of the network of Strophanthus hispidus</p>
 
   
-![newplot](https://github.com/user-attachments/assets/e425f651-f06a-4818-aa0f-aeb042f4564c) <p align="center">Metabolites heatmap  of the 3 plants</p>
+![newplot](https://github.com/user-attachments/assets/e425f651-f06a-4818-aa0f-aeb042f4564c) <p align="center">Metabolites heatmap of the 3 plants</p>
 
   
 Concerning _Derris ellipctica_ we were unable to find features related to rotenone in the nodes network.  
