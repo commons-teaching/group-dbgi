@@ -65,7 +65,7 @@ Overview of the network of _Strophanthus hispidus_
 
   
 ![newplot](https://github.com/user-attachments/assets/e425f651-f06a-4818-aa0f-aeb042f4564c)
-Metabolites heatmap  
+Metabolites heatmap  of the 3 plants
 
 Concerning _Derris ellipctica_ we were unable to find features related to rotenone in the nodes network.  
 ![Derris elliptica cluster 1](https://github.com/user-attachments/assets/e1b1b684-1d8c-4970-8d92-aeed0855f2da)
