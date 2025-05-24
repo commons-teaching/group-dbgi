@@ -53,10 +53,11 @@ With these processed data and metadata, a molecular network with [Cytoscape](htt
 After the features allignment step we obtain 5839 features in the [final peak list](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list.csv).  
 By not taking blanks into account you get 5694 features that can be viuslized [here](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list_samples2.csv). 
 ![Derris elliptica overview](https://github.com/user-attachments/assets/25acb808-9246-4eb4-8d0c-7ddda1d1bf58)  
-Overview of the network of _Erythroxylum coca_
+Overview of the network of _Derris elliptica_  
 ![Erythroxylum coca overview](https://github.com/user-attachments/assets/cf480e9e-a28e-4424-aebc-5d6801e537c8)
+Overview of the network of _Erythroxylum coca_
+![Strophanthus hispidus overview](https://github.com/user-attachments/assets/17cfb7fb-b181-4721-8a9f-0e97eda07ddc)
 Overview of the network of _Strophanthus hispidus_
-![Strophanthus hispidus overview](https://github.com/user-attachments/assets/17cfb7fb-b181-4721-8a9f-0e97eda07ddc)Overview of the network of _Derris elliptica_  
 
 
 
