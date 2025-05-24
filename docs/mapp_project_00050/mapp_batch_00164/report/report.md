@@ -53,7 +53,7 @@ With these processed data and metadata, a molecular network with [Cytoscape](htt
 After the features allignment step we obtain 5839 features in the [final peak list](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list.csv).  
 By not taking blanks into account you get 5694 features that can be viuslized [here](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list_samples2.csv).
 
-  
+<img src="drawing.jpg" alt="drawing" width="200"/>
 ![image](https://github.com/user-attachments/assets/10d83b14-113a-45de-87c7-ed919817740a) <p align="center">Overview of the network of Derris elliptica</p>  
 <br>
 <br>
