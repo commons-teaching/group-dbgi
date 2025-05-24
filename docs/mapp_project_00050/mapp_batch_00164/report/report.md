@@ -70,7 +70,7 @@ Metabolites heatmap  of the 3 plants
 Concerning _Derris ellipctica_ we were unable to find features related to rotenone in the nodes network.  
 ![Derris elliptica cluster 1](https://github.com/user-attachments/assets/e1b1b684-1d8c-4970-8d92-aeed0855f2da)
 Cluster 1  
-![Derris elliptica cluster 1 strucutre 1a](https://github.com/user-attachments/assets/36748ce0-b8a2-49a9-9e49-ce81595a9567)![Derris elliptica cluster 1 strucutre 1b](https://github.com/user-attachments/assets/60e79c10-806f-4667-84a5-f3fbd9218442)
+![Derris elliptica cluster 1 strucutre 1a](https://github.com/user-attachments/assets/36748ce0-b8a2-49a9-9e49-ce81595a9567)![Derris elliptica cluster 1 strucutre 1b](https://github.com/user-attachments/assets/60e79c10-806f-4667-84a5-f3fbd9218442)  
 Structure of Clerodendrin and Eriodictyol  
 ![Erythroxylum coca cluster cocaine](https://github.com/user-attachments/assets/41beab70-d4f7-4ef3-ab3b-2657a1630624)
 Cluster 2  
