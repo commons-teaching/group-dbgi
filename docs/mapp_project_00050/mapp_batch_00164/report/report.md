@@ -56,25 +56,7 @@ By not taking blanks into account you get 5694 features that can be viuslized [h
   
 ![Derris elliptica overview](https://github.com/user-attachments/assets/10d83b14-113a-45de-87c7-ed919817740a) <p align="center">Overview of the network of Derris elliptica</p>  
 
-<br>
-<br>
 
-<br>
-    <br>
-    <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
      <br>
      <br>
      <br>
