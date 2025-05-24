@@ -37,8 +37,8 @@ Liquid chromatography followed by mass spectrometry analysis (LC-MS) was used to
 [MS conditions ](https://github.com/commons-teaching/SBL.20004.2024/blob/main/ms_conditions.txt)
 
 ### Data treatment
-The data obtained from the LCMS were converted to a format supported do by the MZmine program ([like ProteoWizard](https://proteowizard.sourceforge.io/)) and through this software were analyzed. Then the data were processed in this order to obtain the features list of our samples: 
-
+The data obtained from the LCMS were converted to a format supported do by the MZmine program (like [ProteoWizard](https://proteowizard.sourceforge.io/)) and through this software were analyzed. Then the data were processed in this order to obtain the features list of our samples: 
+- Mass pick detection
 
 
 ## Results
