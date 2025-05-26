@@ -58,17 +58,22 @@ This heatmap compares the metabolites profiles of the three plant species. _Derr
 <br>
 <br>
 ![image](https://github.com/user-attachments/assets/10d83b14-113a-45de-87c7-ed919817740a) <p align="center">Overview of the network of Derris elliptica</p>  
-Concerning _Derris ellipctica_ we were unable to find any cluster related to rotenone in the nodes network. After some researchs it turns out this compound is concentred in the roots of the plant[^7]. As we collected the leaves for the analysis it makes sens we didn't find anything related to this metabolite. However some clusters showing unique compounds to _Derris ellipctica_ were identified.  
+Concerning _Derris ellipctica_ we were unable to find any cluster related to rotenone in the nodes network. After some researchs it turns out this compound is concentred in the roots of the plant[^7]. As we collected the leaves for the analysis it makes sens we didn't find anything related to this metabolite. However a cluster showing unique compounds to _Derris ellipctica_ were identified.  
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/08aa7e60-7c47-4a6b-a07c-f59c0c995ff8" width="50%"/> </div>
 <br>
 <br>
+The two main compounds of this cluster is Clerodendrin and Eriodictyol. Clerodendrin is a flavonoid  commonly found in plants of the Clerodendrum genus. Eriodictyol is a flavanone and also a well-characterized plant metabolite with antioxidant and neuroprotective effects. The presence of these two flavonoids in Derris elliptica is coherent, as this species belongs to the Fabaceae family, which is rich in flavonoid diversity making the detection of flavonoids like Clerodendrin and Eriodictyol plausible. Their absence in _Erythroxylum coca_ and _Strophanthus hispidus_ is also reasonable: Erythroxylum is more specialized in alkaloids and terpenoids, and Strophanthus is dominated by cardenolides, with much less flavonoid representation. Therefore the presence in Derris and the absence in the  two other plants align well with our heatmap.  
+<br>  
+<br>  
+
 ![Erythroxylum coca overview](https://github.com/user-attachments/assets/19e42fad-f31c-4b73-9360-9f173ed82476) <p align="center">Overview of the network of Erythroxylum coca</p>  
+<br>
 <br>
 blablabla coca  
 <br>
-<br>
+<br>  
 ![Strophanthus hispidus overview](https://github.com/user-attachments/assets/7a4f64fe-645b-43b2-8dae-7c5801177060) <p align="center">Overview of the network of Strophanthus hispidus</p>
 <br>
 blablabla strophantus  
