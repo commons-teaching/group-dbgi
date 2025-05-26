@@ -50,25 +50,22 @@ With these processed data and metadata, a molecular network with [Cytoscape](htt
 ## Results
 
 ### MS1
-After the features allignment step we obtain 5839 features in the [final peak list](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list.csv).  
-By not taking blanks into account you get 5694 features that can be viuslized [here](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list_samples2.csv).
+After the features allignment step we obtain 5839 features in the [final peak list](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list.csv). By not taking blanks into account you get 5694 features that can be viuslized [here](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list_samples2.csv).
 
-<img src="drawing.jpg" alt="drawing" width="200"/>
+<img src="drawing.jpg" alt="drawing" width="200"/>  
+
 ![image](https://github.com/user-attachments/assets/10d83b14-113a-45de-87c7-ed919817740a) <p align="center">Overview of the network of Derris elliptica</p>  
 <br>
 <br>
+![Erythroxylum coca overview](https://github.com/user-attachments/assets/19e42fad-f31c-4b73-9360-9f173ed82476) <p align="center">Overview of the network of Erythroxylum coca</p>  
 <br>
 <br>
-<br>
-![Erythroxylum coca overview](https://github.com/user-attachments/assets/19e42fad-f31c-4b73-9360-9f173ed82476) <p align="center">Overview of the network of Erythroxylum coca</p>
-
-  
 ![Strophanthus hispidus overview](https://github.com/user-attachments/assets/7a4f64fe-645b-43b2-8dae-7c5801177060) <p align="center">Overview of the network of Strophanthus hispidus</p>
-
-  
+<br>
+<br>
 ![newplot](https://github.com/user-attachments/assets/e425f651-f06a-4818-aa0f-aeb042f4564c) <p align="center">Metabolites heatmap of the 3 plants</p>
-
-  
+<br>
+<br>
 Concerning _Derris ellipctica_ we were unable to find any cluster related to rotenone in the nodes network. After some researchs it turns out this compound is concentred in the roots of the plant[^7]. As we collected the leaves for the analysis it makes sens we didn't find anything related to this metabolite. However some clusters showing unique compounds to _Derris ellipctica_ were identified.
 ![Derris elliptica cluster 1](https://github.com/user-attachments/assets/e1b1b684-1d8c-4970-8d92-aeed0855f2da)
 Cluster 1  
