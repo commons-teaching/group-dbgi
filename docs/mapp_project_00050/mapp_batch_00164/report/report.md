@@ -56,7 +56,7 @@ After the treatment of our data we also generated a heatmap showing an overview 
 
 ![newplot](https://github.com/user-attachments/assets/e425f651-f06a-4818-aa0f-aeb042f4564c) <p align="center">Metabolites heatmap of the 3 plants</p>
 <br>
-This heatmap compares the metabolites profiles of the three plant species. _Derris elliptica_ shows a broad diversity of metabolites, with for example a balanced contribution of terpenoids, fatty acids, phenylpropanoids and alkaloids. _Erythroxylum coca_ is dominated by alkaloids and terpenoids, probably concording with its known bioactivity. _Strophanthus hispidus_ shows a big specialization in  terpenoids, especially cardenolides, as we could expected.  
+This heatmap compares the metabolites profiles of the three plant species. _Derris elliptica_ shows a broad diversity of metabolites with a balanced contribution of terpenoids, fatty acids, phenylpropanoids and alkaloids. _Erythroxylum coca_ is dominated by alkaloids and terpenoids, probably concording with its known bioactivity. _Strophanthus hispidus_ shows a big specialization in  terpenoids, especially cardenolides, as we could expected.  
 <br>
 <br>
 ![image](https://github.com/user-attachments/assets/10d83b14-113a-45de-87c7-ed919817740a) <p align="center">Overview of the network of Derris elliptica</p>  
