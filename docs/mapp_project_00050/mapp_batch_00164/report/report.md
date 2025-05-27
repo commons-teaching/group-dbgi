@@ -59,6 +59,9 @@ After the treatment of our data we also generated a heatmap showing an overview 
 This heatmap compares the metabolites profiles of the three plant species. _Derris elliptica_ shows a broad diversity of metabolites with a balanced contribution of terpenoids, fatty acids, phenylpropanoids and alkaloids. _Erythroxylum coca_ is dominated by alkaloids and terpenoids, probably concording with its known bioactivity. _Strophanthus hispidus_ shows a big specialization in  terpenoids, especially cardenolides, as we could expected.  
 <br>
 <br>
+Below are the molecular networks that we have generated. The controls have the color gray, while _Derris elliptica_ is represented by the color green, _Erythroxylum coca_ by yellow and _Strophanthus hispidus_ by purple. 
+<br>
+<br>
 ![image](https://github.com/user-attachments/assets/10d83b14-113a-45de-87c7-ed919817740a) <p align="center">Overview of the network of Derris elliptica</p>  
 Concerning _Derris ellipctica_ we were unable to find any cluster related to rotenone in the nodes network. After some researchs it turns out this compound is mainly concentred in the roots of the plant[^7]. As we collected the leaves for the analysis it makes sens we didn't find anything related to this metabolite. However a cluster showing unique compounds to _Derris ellipctica_ were identified.  
 <br>
@@ -66,7 +69,7 @@ Concerning _Derris ellipctica_ we were unable to find any cluster related to rot
   <img src="https://github.com/user-attachments/assets/08aa7e60-7c47-4a6b-a07c-f59c0c995ff8" width="50%"/> </div>
 <br>
 <br>
-The two main compounds of this cluster is Clerodendrin and Eriodictyol. Clerodendrin is a flavonoid  commonly found in plants of the Clerodendrum genus. Eriodictyol is a flavanone and also a well-characterized plant metabolite with antioxidant and neuroprotective effects. The presence of these two compounds in Derris elliptica is coherent, as this species belongs to the Fabaceae family, which is rich in flavonoid diversity making their detection plausible. Their absence or reduction in quantity in _Erythroxylum coca_ and _Strophanthus hispidus_ is also reasonable: Erythroxylum is more specialized in alkaloids and terpenoids, and Strophanthus is dominated by cardenolides, with much less flavonoid representation. Therefore the presence in Derris and the absence in the two other plants align well with our heatmap. In the cluster, some nodes show a yellow or purple color. Our hypotesis is that the colomn was not totally cleaned after the injection of Derris's extracts. Anther explenation is that the other two plants can produce a similar molecule in smaller quantity. 
+The two main compounds of this cluster is Clerodendrin and Eriodictyol. Clerodendrin is a flavonoid  commonly found in plants of the Clerodendrum genus. Eriodictyol is a flavanone and also a well-characterized plant metabolite with antioxidant and neuroprotective effects. The presence of these two compounds in Derris elliptica is coherent, as this species belongs to the Fabaceae family, which is rich in flavonoid diversity making their detection plausible. Their absence or reduction in quantity in _Erythroxylum coca_ and _Strophanthus hispidus_ is also reasonable: Erythroxylum is more specialized in alkaloids and terpenoids, and _Strophanthus hispidus_ is dominated by cardenolides, with much less flavonoid representation. Therefore the presence in Derris and the absence in the two other plants align well with our heatmap. In the cluster, some nodes show a yellow or purple color. Our hypotesis is that the colomn was not totally cleaned after the injection of Derris's extracts. Anther explenation is that the other two plants can produce a similar molecule in smaller quantity. 
 <br>  
 <br>  
 
