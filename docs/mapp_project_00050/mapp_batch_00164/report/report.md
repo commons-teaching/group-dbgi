@@ -46,9 +46,9 @@ The data obtained from the LCMS were converted to a format supported do by the M
 
 With these processed data and metadata, a molecular network with [Cytoscape](https://cytoscape.org/) was created to cluster and visualize the detected features. 
 
-<img src="https://github.com/user-attachments/assets/10d83b14-113a-45de-87c7-ed919817740a" width="75%"
-## Results
 
+## Results
+<img src="https://github.com/user-attachments/assets/10d83b14-113a-45de-87c7-ed919817740a" width="75%"
 ### MS1
 After the features allignment step we obtain 5839 features in the [final peak list](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list.csv). By not taking blanks into account you get 5694 features that can be viuslized [here](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list_samples2.csv). After the treatment of our data we also obtain a heatmap showing an overview of all metabolites cointained in our samples.  
 
