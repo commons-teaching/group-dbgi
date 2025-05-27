@@ -60,7 +60,7 @@ This heatmap compares the metabolites profiles of the three plant species. _Derr
 <br>
 <br>
 ![image](https://github.com/user-attachments/assets/10d83b14-113a-45de-87c7-ed919817740a) <p align="center">Overview of the network of Derris elliptica</p>  
-Concerning _Derris ellipctica_ we were unable to find any cluster related to rotenone in the nodes network. After some researchs it turns out this compound is concentred in the roots of the plant[^7]. As we collected the leaves for the analysis it makes sens we didn't find anything related to this metabolite. However a cluster showing unique compounds to _Derris ellipctica_ were identified.  
+Concerning _Derris ellipctica_ we were unable to find any cluster related to rotenone in the nodes network. After some researchs it turns out this compound is mainly concentred in the roots of the plant[^7]. As we collected the leaves for the analysis it makes sens we didn't find anything related to this metabolite. However a cluster showing unique compounds to _Derris ellipctica_ were identified.  
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/08aa7e60-7c47-4a6b-a07c-f59c0c995ff8" width="50%"/> </div>
