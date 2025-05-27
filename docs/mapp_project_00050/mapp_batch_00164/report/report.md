@@ -43,7 +43,7 @@ The data obtained from the LCMS were converted to a format supported do by the M
 - Chromatogram deconvolution. Here peaks are identified and separated in the chromatogram.
 - Isotope grouping. In this penultimate step, the isotopes of each ion are grouped into a single feature. in this way, the moinoisomeric mass of the feature can be obtained.
 - Feature alignment. The last step allows aligning the features detected in each sample to compare their different intensities.
-<br>
+
 The parameters that were used to treat the data are found [here](https://github.com/commons-teaching/group-dbgi/blob/main/docs/mapp_project_00050/mapp_batch_00164/results/mzmine/mapp_batch_00164.mzbatch).
 
 With these processed data and metadata, a molecular network with [Cytoscape](https://cytoscape.org/) was created to cluster and visualize the detected features. 
