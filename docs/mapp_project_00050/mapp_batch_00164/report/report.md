@@ -77,7 +77,7 @@ The two main compounds of this cluster is Clerodendrin and Eriodictyol. Cleroden
 
 ![Erythroxylum coca overview](https://github.com/user-attachments/assets/19e42fad-f31c-4b73-9360-9f173ed82476) <p align="center">Overview of the network of Erythroxylum coca</p>  
 
-For _Erythroxylum coca_ we found a cluster that contains nodes traceable to cocaine or cinnamoylcocaine, a close structural similarity molecule to cocaine.
+For _Erythroxylum coca_ we found a cluster that contains nodes traceable to cocaine and cinnamoylcocaine, a close structural similare molecule to cocaine. After some researchs it turns out cinnamolycocaine is also an alkaloid but despise the similarity with cocaine, this one is pharmacologically inactive[^8].
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/113506cd-843b-441c-9806-c6a53607f3fa" width="40%"/>  <img src="https://github.com/user-attachments/assets/ca3237e0-a7d6-40cc-bae0-ae5d24686ace" width="50%"/> </div>
@@ -93,9 +93,10 @@ For _Strophantus hispidus_ we were able to identify a cluster related to Stropha
 ## References
 [^1]: Khan, M. R., Omoloso, A. D., & Barewai, Y. (2006). Antimicrobial activity of the Derris elliptica, Derris indica and Derris trifoliata extractives. Fitoterapia, 77(4), 327-330. 
 [^2]: Ling, Nicholas. (2003). Rotenone - A review of its toxicity and use for fisheries management. Science for Conservation. 211. 1-40. 
-[^3]:Agyare, C., Dwobeng, A. S., Agyepong, N., Boakye, Y. D., Mensah, K. B., Ayande, P. G., & Adarkwa-Yiadom, M. (2013). Antimicrobial, antioxidant, and wound healing properties of Kigelia africana (Lam.) Beneth. and Strophanthus hispidus DC. Advances in Pharmacological and Pharmaceutical Sciences, 2013(1), 692613.
-[^4]:Burkill, H. M. (1985). The useful plants of West Tropical Africa, vol. 1. Royal Botanic Gardens, Kew, 343.
-[^5]:Fraser, T. R. (1890). XXI.—Strophanthus hispidus: its Natural History, Chemistry, and Pharmacology. Transactions of the Royal Society of Edinburgh, 35(4), 955–1027. doi:10.1017/S0080456800008589
-[^6]:Fürstenwerth, H. (2010). Ouabain-the insulin of the heart. International journal of clinical practice, 64(12), 1591.
-[^7]:Zubairi, S.I., Sarmidi, M.R., & Aziz, R. (2014). A Study of Rotenone from Derris Roots of Varies Location, Plant Parts and Types of Solvent Used. Advances in Environmental Biology, 8, 445-449.
+[^3]: Agyare, C., Dwobeng, A. S., Agyepong, N., Boakye, Y. D., Mensah, K. B., Ayande, P. G., & Adarkwa-Yiadom, M. (2013). Antimicrobial, antioxidant, and wound healing properties of Kigelia africana (Lam.) Beneth. and Strophanthus hispidus DC. Advances in Pharmacological and Pharmaceutical Sciences, 2013(1), 692613.
+[^4]: Burkill, H. M. (1985). The useful plants of West Tropical Africa, vol. 1. Royal Botanic Gardens, Kew, 343.
+[^5]: Fraser, T. R. (1890). XXI.—Strophanthus hispidus: its Natural History, Chemistry, and Pharmacology. Transactions of the Royal Society of Edinburgh, 35(4), 955–1027. doi:10.1017/S0080456800008589
+[^6]: Fürstenwerth, H. (2010). Ouabain-the insulin of the heart. International journal of clinical practice, 64(12), 1591.
+[^7]: Zubairi, S.I., Sarmidi, M.R., & Aziz, R. (2014). A Study of Rotenone from Derris Roots of Varies Location, Plant Parts and Types of Solvent Used. Advances in Environmental Biology, 8, 445-449.
+[^8]: Woker, G. (1953). Die Chemie der natürlichen Alkaloide (p. 468). F. Enke Verlag.
 
