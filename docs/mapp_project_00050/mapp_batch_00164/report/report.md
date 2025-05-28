@@ -84,8 +84,10 @@ For _Erythroxylum coca_ we found a cluster that contains nodes traceable to coca
 
 ![Strophanthus hispidus overview](https://github.com/user-attachments/assets/7a4f64fe-645b-43b2-8dae-7c5801177060) <p align="center">Overview of the network of Strophanthus hispidus</p>
 
-
 For _Strophantus hispidus_ we were able to identify a cluster related to Strophanthidin, a cardenolide that is an analogue of ouabain and have a similar mechanism of action.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c9f63ba9-f85e-42d8-8e30-01d5c827b577" width="40%"/> </div>
 
 ## Conclusion
 ## References
