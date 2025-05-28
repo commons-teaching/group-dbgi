@@ -69,7 +69,7 @@ Concerning _Derris ellipctica_ we were unable to find any cluster related to rot
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/08aa7e60-7c47-4a6b-a07c-f59c0c995ff8" width="50%"/> </div>
+  <img src="https://github.com/user-attachments/assets/08aa7e60-7c47-4a6b-a07c-f59c0c995ff8" width="40%"/> </div>
 
 
 The two main compounds of this cluster is Clerodendrin and Eriodictyol. Clerodendrin is a flavonoid  commonly found in plants of the Clerodendrum genus. Eriodictyol is a flavanone and also a well-characterized plant metabolite with antioxidant and neuroprotective effects. The presence of these two compounds in _Derris elliptica_ is coherent, as this species belongs to the Fabaceae family, which is rich in flavonoid diversity making their detection plausible. Their absence or reduction in quantity in _Erythroxylum coca_ and _Strophanthus hispidus_ is also reasonable: the _Erythroxylum_ plant is more specialized in alkaloids and terpenoids and _Strophanthus hispidus_ is dominated by cardenolides, with much less flavonoid representation. Therefore the presence in the Derris Plant and the absence in the two other plants align well with our heatmap. In the cluster, some nodes show a yellow or purple color. Our hypotesis is that the colomn was not totally cleaned after the injection of Derris's extracts. Anther explenation is that the other two plants can produce a similar molecule in smaller quantity. 
@@ -79,7 +79,8 @@ The two main compounds of this cluster is Clerodendrin and Eriodictyol. Cleroden
 
 For _Erythroxylum coca_ we found a cluster that contains nodes traceable to cocaine or cinnamoylcocaine, a close structural similarity molecule to cocaine.
 
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/113506cd-843b-441c-9806-c6a53607f3fa" width="40%"/> </div>
 
 ![Strophanthus hispidus overview](https://github.com/user-attachments/assets/7a4f64fe-645b-43b2-8dae-7c5801177060) <p align="center">Overview of the network of Strophanthus hispidus</p>
 
