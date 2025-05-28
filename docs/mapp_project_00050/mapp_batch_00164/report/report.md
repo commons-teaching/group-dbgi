@@ -77,9 +77,7 @@ The two main compounds of this cluster is Clerodendrin and Eriodictyol. Cleroden
 
 ![Erythroxylum coca overview](https://github.com/user-attachments/assets/19e42fad-f31c-4b73-9360-9f173ed82476) <p align="center">Overview of the network of Erythroxylum coca</p>  
 
-
-
-blablabla coca  
+For _Erythroxylum coca_ we found a cluster that contains nodes traceable to cocaine or cinnamoylcocaine, a close structural similarity molecule to cocaine.
 
 
 
@@ -89,10 +87,8 @@ blablabla coca
 blablabla strophantus  
 
 
-![Derris elliptica cluster 1](https://github.com/user-attachments/assets/e1b1b684-1d8c-4970-8d92-aeed0855f2da)
-Cluster 1  
-![Derris elliptica cluster 1 strucutre 1a](https://github.com/user-attachments/assets/36748ce0-b8a2-49a9-9e49-ce81595a9567)![Derris elliptica cluster 1 strucutre 1b](https://github.com/user-attachments/assets/60e79c10-806f-4667-84a5-f3fbd9218442)  
-Structure of Clerodendrin and Eriodictyol  
+
+
 ![Erythroxylum coca cluster cocaine](https://github.com/user-attachments/assets/41beab70-d4f7-4ef3-ab3b-2657a1630624)
 Cluster 2  
 ![Erythroxylum coca structure cocaine](https://github.com/user-attachments/assets/16161141-1044-42cb-8255-0bf7632ae244)
