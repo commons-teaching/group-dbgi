@@ -69,7 +69,7 @@ Concerning _Derris ellipctica_ we were unable to find any cluster related to rot
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/08aa7e60-7c47-4a6b-a07c-f59c0c995ff8" width="40%"/> </div>
+  <img src="https://github.com/user-attachments/assets/08aa7e60-7c47-4a6b-a07c-f59c0c995ff8" width="50%"/> </div>
 
 
 The two main compounds of this cluster is Clerodendrin and Eriodictyol. Clerodendrin is a flavonoid  commonly found in plants of the Clerodendrum genus. Eriodictyol is a flavanone and also a well-characterized plant metabolite with antioxidant and neuroprotective effects. The presence of these two compounds in _Derris elliptica_ is coherent, as this species belongs to the Fabaceae family, which is rich in flavonoid diversity making their detection plausible. Their absence or reduction in quantity in _Erythroxylum coca_ and _Strophanthus hispidus_ is also reasonable: the _Erythroxylum_ plant is more specialized in alkaloids and terpenoids and _Strophanthus hispidus_ is dominated by cardenolides, with much less flavonoid representation. Therefore the presence in the Derris Plant and the absence in the two other plants align well with our heatmap. In the cluster, some nodes show a yellow or purple color. Our hypotesis is that the colomn was not totally cleaned after the injection of Derris's extracts. Another explenation is that the other two plants can produce a similar molecule in smaller quantity. 
@@ -87,7 +87,7 @@ For _Erythroxylum coca_ we found a cluster that contains nodes traceable to coca
 For _Strophantus hispidus_ we were able to identify a cluster related to Strophanthidin, a cardenolide that is an analogue of ouabain and have a similar mechanism of action.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c9f63ba9-f85e-42d8-8e30-01d5c827b577" width="50%"/>  <img src="https://github.com/user-attachments/assets/f7513d0d-238d-4afb-8c3d-143ba21c5e57" width="40%"/> </div>
+  <img src="https://github.com/user-attachments/assets/c9f63ba9-f85e-42d8-8e30-01d5c827b577" width="55%"/>  <img src="https://github.com/user-attachments/assets/f7513d0d-238d-4afb-8c3d-143ba21c5e57" width="40%"/> </div>
 
 ## Conclusion
 ## References
