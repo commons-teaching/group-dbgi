@@ -80,7 +80,7 @@ The two main compounds of this cluster is Clerodendrin and Eriodictyol. Cleroden
 For _Erythroxylum coca_ we found a cluster that contains nodes traceable to cocaine or cinnamoylcocaine, a close structural similarity molecule to cocaine.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/113506cd-843b-441c-9806-c6a53607f3fa" width="40%"/> </div>
+  <img src="https://github.com/user-attachments/assets/113506cd-843b-441c-9806-c6a53607f3fa" width="40%"/>  <img src="https://github.com/user-attachments/assets/ca3237e0-a7d6-40cc-bae0-ae5d24686ace" width="40%"/> </div>
 
 ![Strophanthus hispidus overview](https://github.com/user-attachments/assets/7a4f64fe-645b-43b2-8dae-7c5801177060) <p align="center">Overview of the network of Strophanthus hispidus</p>
 
