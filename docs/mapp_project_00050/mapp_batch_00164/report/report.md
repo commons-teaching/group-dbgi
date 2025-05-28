@@ -78,7 +78,7 @@ The two main compounds of this cluster is Clerodendrin and Eriodictyol. Cleroden
 ![Erythroxylum coca overview](https://github.com/user-attachments/assets/19e42fad-f31c-4b73-9360-9f173ed82476) <p align="center">Overview of the network of Erythroxylum coca</p>  
 
 For _Erythroxylum coca_ we found a cluster that contains nodes traceable to cocaine and cinnamoylcocaine, a close structural similare molecule to cocaine. After some researchs it turns out cinnamolycocaine is also an alkaloid but despise the similarity with cocaine, this one is pharmacologically inactive[^8].
-We also found in another cluster a compound called Spinosad that appears in both _Erythroxylum coca_ and _Strophantus hispidus_. Spinosad is an insecticide derived from the bacterium _Saccharopolyspora spinosa_. It is commonly used in organic farming to protect crops.
+We also found in another cluster a compound called Spinosad that appears in both _Erythroxylum coca_ and _Strophantus hispidus_. Spinosad is an insecticide derived from the bacterium _Saccharopolyspora spinosa_. It is commonly used in organic farming to protect crops. One hypothesis we have is that this compound may have been applied as a pesticide in the botanical garden and then absorbed through the leaves of the plants.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/113506cd-843b-441c-9806-c6a53607f3fa" width="40%"/>  <img src="https://github.com/user-attachments/assets/ca3237e0-a7d6-40cc-bae0-ae5d24686ace" width="50%"/> </div>
