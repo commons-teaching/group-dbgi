@@ -50,7 +50,7 @@ With these processed data and metadata, a molecular network with [Cytoscape](htt
 
 
 ## Results
-<img src="https://github.com/user-attachments/assets/10d83b14-113a-45de-87c7-ed919817740a" width="75%"
+
 ### MS1
 After the features allignment step we obtain 5839 features in the [final peak list](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list.csv). By not taking blanks into account you get 5694 features that can be viuslized [here](https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list_samples2.csv).   
 
