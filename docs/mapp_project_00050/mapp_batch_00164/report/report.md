@@ -91,6 +91,9 @@ For _Strophantus hispidus_ we were able to identify a cluster related to Stropha
   <img src="https://github.com/user-attachments/assets/c9f63ba9-f85e-42d8-8e30-01d5c827b577" width="55%"/>  <img src="https://github.com/user-attachments/assets/f7513d0d-238d-4afb-8c3d-143ba21c5e57" width="40%"/> </div>
 
 ## Conclusion
+In conclusion, we were able to find cocaine in the coca plant and also the cardiotoxin produced by Strophantus. However, we were not able to find rotenone produced by Derris Helliptica, as it is known to accumulate in the roots of the plant and not in its leaves. However, we were able to identify clusters with features from a single plant as well as shared clusters. 
+We were also positively amazed to find molecules that were not from plants. In fact, a molecule was found that came from bacteria that were likely used to protect plants. 
+Therefore, we can conclude that external conditions can affect the analysis. it is therefore very important to analyze the data carefully, because not only is it very easy to contaminate the sample, but also that other organisms may therefore have the ability to contaminate our results. Detected metabolites may therefore have different origins, and may also change based on external factors. 
 ## References
 [^1]: Khan, M. R., Omoloso, A. D., & Barewai, Y. (2006). Antimicrobial activity of the Derris elliptica, Derris indica and Derris trifoliata extractives. Fitoterapia, 77(4), 327-330. 
 [^2]: Ling, Nicholas. (2003). Rotenone - A review of its toxicity and use for fisheries management. Science for Conservation. 211. 1-40. 
