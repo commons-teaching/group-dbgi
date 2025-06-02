@@ -7,7 +7,7 @@ Report 09.06.2025
   
 - Michele Cereghetti  
 - Tanguy Schmidt  
-- Jonas Hendricks (?)
+- Jonas Hendricks
 
 ## Introduction
 Throughout evolution, plant species have developed different traits to adapt and survive in response to environmental pressures. One known strategy is the production of specialized metabolites, which often serve as  defenses by making the plant unpalatable or toxic to herbivores. They can also be useful for attracting pollinators, allelopathy, attracting and selecting microorganisms,... These metabolites not only play a vital role in plant survival, but they have also long attracted human interest. Over time, humans observed and studied plants, gradually recognizing their unique properties and harnessing them primarily for food and medicine, and in some cases, even for fishing or hunting. Today, the field of metabolomics seeks to investigate and understand these specialized compounds, exploring how plants use them to interact with their environment and defend themselves.   
