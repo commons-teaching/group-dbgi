@@ -89,6 +89,8 @@ We found in a cluster (Cluster 3) a compound called Spinosad that appears in bot
 
 For _Strophantus hispidus_ we were able to identify a cluster (Cluster 4) related to Strophanthidin, the characteristic terpenoid for _Strophantus_ plants and the main bioactive compound responsible for its cardiotoxic properties[^9]. Other metabolites in this cluster are classed as cardiac glycosides, (mostly _Cardenolides_ and _Bufadienolides_), characterized by their cardio active properties[^10]. Other bigger cluster (>10 nodes) exclusive to _Strophantus hispidus_ were classed as _Triterpenoids_, _Sesquiterpenoides_ and _Cardenolides_, fitting well with the _Terpenoid_ heavy composition of the metabolome (see Graphic 1).
 
+We also have detected a cluster (Cluster 5) showing a compound, turanose, shared by the three plants. Turanose is a disaccharide composed of glucose and fructose. This molecule is poorly metabolized by plants but can be taken via specific transporters and acts like a signaling molecule[^11]. In Arabidopsis, turanose affects auxin-regulated root growth underlying its signaling role[^12]. A metabolomic study have detected turanose in a wide range of plants including barley, strawberry and tobacco, especially under stress conditions[^13]. Thus, its detection in _Derris elliptica_, _Erythroxylum coca_, and _Strophanthus hispidus_ is not so surprising.
+
 (should we go into Scopoletin, is the strongest detection for strophantus, but also present in the other two, is a fairly common compound. Maybe not too interesting, btw. why is Cluster 5 in there with the Turanose?)
 
 <div align="center">
@@ -110,3 +112,7 @@ _Derris elliptica_ roots warrant further investigation. Of potential scientific 
 [^8]: Woker, G. (1953). Die Chemie der natÃ¼rlichen Alkaloide (p. 468). F. Enke Verlag.
 [^9]: Sauviat, M. P. (1992). Palytoxin: characterization of mode of action in excitable cells. In _Methods in Neurosciences_ (Vol. 8, pp. 332-346). Academic Press.
 [^10]: Aronson, J. K. (2014). Plant poisons and traditional medicines. In _Manson's tropical infectious diseases_ (pp. 1128-1150). WB Saunders.
+[^11]: Baguma Y, Sun C, Borén M, Olsson H, Rosenqvist S, Mutisya J, Rubaihayo PR, Jansson C. Sugar-mediated semidian oscillation of gene expression in the cassava storage root regulates starch synthesis. Plant Signal Behav. 2008 Jul;3(7):439-45. doi: 10.4161/psb.3.7.5715. PMID: 19513234; PMCID: PMC2634422.
+[^12]: Barlier, I., Kowalczyk, M., Marchant, A., Ljung, K., Bhalerao, R., Bennett, M., Sandberg, G. and Bellini, C. (2000) The SUR2 gene of Arabidopsis thaliana encodes the cytochrome P450CYP83B1, a modulator of auxin homeostasis. Proc. Natl Acad. Sci. USA, 97, 14819–14824.
+[^13]: Juhász, Z., Boldizsár, Á., Nagy, T. et al. Pleiotropic effect of chromosome 5A and the mvp mutation on the metabolite profile during cold acclimation and the vegetative/generative transition in wheat. BMC Plant Biol 15, 57 (2015). https://doi.org/10.1186/s12870-014-0363-7
+
