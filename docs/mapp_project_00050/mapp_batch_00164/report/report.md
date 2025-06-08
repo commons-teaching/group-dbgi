@@ -115,7 +115,7 @@ _Derris elliptica_ roots warrant further investigation. Of potential scientific 
 [^11]: Baguma Y, Sun C, Borén M, Olsson H, Rosenqvist S, Mutisya J, Rubaihayo PR, Jansson C. Sugar-mediated semidian oscillation of gene expression in the cassava storage root regulates starch synthesis. Plant Signal Behav. 2008 Jul;3(7):439-45. doi: 10.4161/psb.3.7.5715. PMID: 19513234; PMCID: PMC2634422.
 [^12]: Barlier, I., Kowalczyk, M., Marchant, A., Ljung, K., Bhalerao, R., Bennett, M., Sandberg, G. and Bellini, C. (2000) The SUR2 gene of Arabidopsis thaliana encodes the cytochrome P450CYP83B1, a modulator of auxin homeostasis. Proc. Natl Acad. Sci. USA, 97, 14819–14824.
 [^13]: Juhász, Z., Boldizsár, Á., Nagy, T. et al. Pleiotropic effect of chromosome 5A and the mvp mutation on the metabolite profile during cold acclimation and the vegetative/generative transition in wheat. BMC Plant Biol 15, 57 (2015). https://doi.org/10.1186/s12870-014-0363-7
-[^14]	P. Drašar and J. Moravcova, “Recent advances in analysis of Chinese medical plants and traditional medicines,” Dec. 05, 2004. doi: 10.1016/j.jchromb.2004.09.037.
+[^14]: P. Drašar and J. Moravcova, “Recent advances in analysis of Chinese medical plants and traditional medicines,” Dec. 05, 2004. doi: 10.1016/j.jchromb.2004.09.037.
  
 
 
