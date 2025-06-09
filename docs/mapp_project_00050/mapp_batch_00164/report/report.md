@@ -81,7 +81,7 @@ We found in a cluster (Cluster 3) a compound called [Spinosad](https://www.wikid
 
 <div align="center">
   <img src="https://urldefense.com/v3/__https://github.com/user-attachments/assets/113506cd-843b-441c-9806-c6a53607f3fa__;!!L4CEoEA!oMgIxvuQ2eBdbUoieEaaumBnCsHyg61Wm5dVLRw3WVuUcXLYoJTQ_9hqN7HV2VYef7EfanTKSjM86EwN5o3KChiBcIFpbV_nh-WcMdo$ " width="40%"/>  <img src="https://urldefense.com/v3/__https://github.com/user-attachments/assets/ca3237e0-a7d6-40cc-bae0-ae5d24686ace__;!!L4CEoEA!oMgIxvuQ2eBdbUoieEaaumBnCsHyg61Wm5dVLRw3WVuUcXLYoJTQ_9hqN7HV2VYef7EfanTKSjM86EwN5o3KChiBcIFpbV_n4aotPWw$ " width="50%"/> </div>
-  <p align="center">Graphic 5 & 6: Cluster 2 characteristic for <em>Erythroxylum coca</em> and Cluster 3 characteristic for Spynosyns </p> 
+  <p align="center">Graphic 5 & 6: Cluster 2 characteristic for <em>Erythroxylum coca</em> and Cluster 3 characteristic for Spinosad </p> 
 
 ![Strophanthus hispidus overview](https://urldefense.com/v3/__https://github.com/user-attachments/assets/7a4f64fe-645b-43b2-8dae-7c5801177060__;!!L4CEoEA!oMgIxvuQ2eBdbUoieEaaumBnCsHyg61Wm5dVLRw3WVuUcXLYoJTQ_9hqN7HV2VYef7EfanTKSjM86EwN5o3KChiBcIFpbV_n61RpatQ$ ) <p align="center">Graphic 7: Overview of the network of <em>Strophanthus hispidus</em></p>
 
