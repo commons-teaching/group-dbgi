@@ -54,9 +54,9 @@ For metabolite annotation, we used the GNPS platform for spectral matching and m
 ### MS1
 In total we obtained 5839 features in the [final peak list](https://urldefense.com/v3/__https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list.csv__;!!L4CEoEA!oMgIxvuQ2eBdbUoieEaaumBnCsHyg61Wm5dVLRw3WVuUcXLYoJTQ_9hqN7HV2VYef7EfanTKSjM86EwN5o3KChiBcIFpbV_nrpgjDXc$ ). After removing blanks, 5694 features were left ([link](https://urldefense.com/v3/__https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list_samples2.csv__;!!L4CEoEA!oMgIxvuQ2eBdbUoieEaaumBnCsHyg61Wm5dVLRw3WVuUcXLYoJTQ_9hqN7HV2VYef7EfanTKSjM86EwN5o3KChiBcIFpbV_noPbOFJo$ )).   
 
-A heatmap was generated showing an overview of all metabolites cointained in our samples.  
+A tree map was generated showing an overview of all metabolites cointained in our samples.  
 
-![newplot](https://urldefense.com/v3/__https://github.com/user-attachments/assets/e425f651-f06a-4818-aa0f-aeb042f4564c__;!!L4CEoEA!oMgIxvuQ2eBdbUoieEaaumBnCsHyg61Wm5dVLRw3WVuUcXLYoJTQ_9hqN7HV2VYef7EfanTKSjM86EwN5o3KChiBcIFpbV_notEW_Mk$ ) <p align="center">Graphic 1: Metabolites heatmap of _Derris elliptica_, _Erythroxylum coca_ and _Strophanthus hispidus_</p>
+![newplot](https://urldefense.com/v3/__https://github.com/user-attachments/assets/e425f651-f06a-4818-aa0f-aeb042f4564c__;!!L4CEoEA!oMgIxvuQ2eBdbUoieEaaumBnCsHyg61Wm5dVLRw3WVuUcXLYoJTQ_9hqN7HV2VYef7EfanTKSjM86EwN5o3KChiBcIFpbV_notEW_Mk$ ) <p align="center">Graphic 1: Metabolites tree map of _Derris elliptica_, _Erythroxylum coca_ and _Strophanthus hispidus_</p>
 
 The heatmap compares the metabolome profiles of the three plant species samples. _Derris elliptica_ shows a broad diversity of metabolites with a balanced contribution of terpenoids, fatty acids, phenylpropanoids and alkaloids. _Erythroxylum coca_ is dominated by alkaloids and terpenoids, concording with its known bioactivity. _Strophanthus hispidus_ metabolome is constituted mainly of terpenoids, with the biggest subgroup being cardenolides.  
 
