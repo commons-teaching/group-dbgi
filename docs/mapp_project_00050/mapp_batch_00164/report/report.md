@@ -54,7 +54,7 @@ For metabolite annotation, we used the GNPS platform for spectral matching and m
 ### MS1
 All the results related to our study can be found on [GNPS2](https://gnps2.org/status?task=586b101cc1f54855802a035ceadc10fd).  
 
-Thanks to Mzmine, the ion chromatograms of our samples has been generated with in orange _Derris elliptica_ , in yellow _Erythroxylum coca_ and in blue _Strophanthus hispidus_.  
+Thanks to Mzmine, the ion chromatograms of our samples has been generated with: in orange _Derris elliptica_, in yellow _Erythroxylum coca_ and in blue _Strophanthus hispidus_.  
 ![IMG-20250608-WA0001](https://github.com/user-attachments/assets/dc1f363a-1947-492b-8583-ad0e4aec07c8)  
 
 In total we obtained 5839 features in the [final peak list](https://urldefense.com/v3/__https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list.csv__;!!L4CEoEA!oMgIxvuQ2eBdbUoieEaaumBnCsHyg61Wm5dVLRw3WVuUcXLYoJTQ_9hqN7HV2VYef7EfanTKSjM86EwN5o3KChiBcIFpbV_nrpgjDXc$ ). After removing blanks, 5694 features were left ([link](https://urldefense.com/v3/__https://github.com/commons-teaching/group-dbgi/blob/main/aligned_feature_list_samples2.csv__;!!L4CEoEA!oMgIxvuQ2eBdbUoieEaaumBnCsHyg61Wm5dVLRw3WVuUcXLYoJTQ_9hqN7HV2VYef7EfanTKSjM86EwN5o3KChiBcIFpbV_noPbOFJo$ )).   
